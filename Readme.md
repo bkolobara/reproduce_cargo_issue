@@ -1,0 +1,1 @@
+Example issue https://github.com/rust-lang/cargo/issues/10906
